@@ -46,3 +46,9 @@ const variable = null;
 //undefined
 //Indicates that a value is undefined (used by Js)
 const variable2 = undefined;
+
+/*Arithmetic operators
+=============================*/
+//module
+const variableModule = 17 % 3;
+console.log(variableModule);
